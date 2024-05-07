@@ -1,4 +1,3 @@
-import React from "react";
 import {counter} from './Counter';
 
 export default function CounterButton() {

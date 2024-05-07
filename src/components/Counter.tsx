@@ -1,6 +1,5 @@
-import React from "react";
 import CounterButton from "./CounterButton";
-import {signal,useSignal} from "@preact/signals-react";
+import {signal} from "@preact/signals-react";
 import CounterText from "./CounterText";
 
 export const counter = signal(0);

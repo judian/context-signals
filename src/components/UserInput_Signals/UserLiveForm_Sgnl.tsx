@@ -1,4 +1,3 @@
-import {useState } from "react";
 import { useSignal } from "@preact/signals-react";
 import UserText_Sgnl from "./UserText_Sgnl";
 import UserInput_Sgnl from "./UserInput_Sgnl";
